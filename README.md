@@ -15,7 +15,7 @@ camera for real time precision.
 ![KEIL MCBSTM32F400](./MCBSTM32F200_F400.png)
 
 ## Abstract of Intelligent Self Parking System
-![Intelligent Self Parking System](./Intelligent Self Parking System.png)
+![Intelligent Self Parking System](./Intelligent_Self_Parking_System.png)
 
 ## Block Diagram of Operation
-![Block Diagram of Operation](./Block Diagram of Operation.png)
+![Block Diagram of Operation](./Block_Diagram_of_Operation.png)
